@@ -226,3 +226,9 @@ article {
     display: block;
     margin: 10px auto; 
 }
+.fallout-4-image {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
