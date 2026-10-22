@@ -190,7 +190,6 @@ article {
 .blog-card:hover h3 {
     color: var(--text-card-h3-hover);
 }
-
 .fallout-image {
     max-width: 2500px;
     height: auto;
