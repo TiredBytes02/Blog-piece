@@ -227,7 +227,31 @@ article {
     margin: 10px auto; 
 }
 .fallout-4-image {
+    max-width: 750px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.nexus-mods-logo {
     max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.discord-logo {
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.fallout-london-image {
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.itch-io-logo {
+    max-width: 600px;
     height: auto;
     display: block;
     margin: 10px auto; 
