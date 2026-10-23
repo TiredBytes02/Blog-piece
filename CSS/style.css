@@ -239,7 +239,7 @@ article {
     margin: 10px auto; 
 }
 .discord-logo {
-    max-width: 400px;
+    max-width: 350px;
     height: auto;
     display: block;
     margin: 10px auto; 
@@ -255,4 +255,46 @@ article {
     height: auto;
     display: block;
     margin: 10px auto; 
+}
+.dovetail-games-logo {
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.rivet-games-logo {
+    max-width: 525px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.blazing-griffin-logo {
+    max-width: 525px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.the-4j-studios-logo {
+    max-width: 525px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.reddit-logo{
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 10px auto; 
+}
+.fallout-pipboy-image{
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+.fallout-new-york{
+    max-width: 650px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
 }
